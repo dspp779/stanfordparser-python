@@ -33,7 +33,7 @@ How to use
 
 .. code:: python
 
-  # python3
+  # python
   from stanfordparser import StanfordTagger
   
   tagger = StanfordTagger('.../path_to_stanford_parser')
