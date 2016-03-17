@@ -8,10 +8,10 @@ Python Wrapper for `Stanford Parser`_ (only part-of-speech tagging)
 Features
 --------
 
-- Python interface for calling `Stanfor Parser`_
+- Python interface for calling `Stanford Parser`_
 - Convert tab separated text to python tuples.
 
-.. _Stanfor Parser: http://nlp.stanford.edu/software/lex-parser.html
+.. _Stanford Parser: http://nlp.stanford.edu/software/lex-parser.html
 
 --------------------------
 Compatibility/Requirements
